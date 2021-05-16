@@ -1,0 +1,39 @@
+h1{
+    color:black;
+}
+h2{
+    color:black;
+}
+p{
+    font-family:serif;
+}
+h1{
+    background-color: #dddddd;
+}
+li{
+    color:blue;
+}
+.logo1{
+padding: 40px;
+}
+li1{
+    float:left;
+}
+footer-logo{
+    float:left;
+}
+footer-list{
+    float:right;
+}
+img{
+    width: 500px;
+    height: 200px;
+}
+.logo1{
+    border-bottom: 1px solid #333;
+    padding: 10px;
+    margin: 20px 10px;
+}
+span{
+    color:cadetblue;
+}
